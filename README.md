@@ -1,3 +1,4 @@
-# My Awesome Book
+# LineBot 使用說明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+使用LineBot 功能說明，第一次就上手．
+
